@@ -1,0 +1,6 @@
+{
+  "name": "Scaffold-ETH 3D: BuidlGuidl Odyssey",
+  "description": "An interactive 3D Web3 sandbox game exploring the legendary Scaffold-ETH challenges: Simple NFTs, Decentralized Staking, Token Vendors, Dice Exploit, DEX AMM, and Multisig Wallets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
